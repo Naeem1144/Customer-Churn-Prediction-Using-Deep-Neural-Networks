@@ -24,4 +24,4 @@ Customer churn, the rate at which customers stop doing business with an entity, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/DeepNeuralNetwork_For_Customer_Churn_Preditcion.git 
+   git clone https://github.com/Naeem1144/Customer-Churn-Prediction-Using-Deep-Neural-Networks 
